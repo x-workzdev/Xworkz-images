@@ -71,6 +71,60 @@
       "name": "Amazon",
       "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/company-logs/Amazon.png",
       "website": "https://www.amazon.jobs/"
+    },
+    {
+      "id": 13,
+      "name": "Brillio",
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/company-logs/Brillio.png",
+      "website": "https://www.brillio.com/"
+    },
+    {
+      "id": 14,
+      "name": "Concentrix",
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/company-logs/Concentrix.png",
+      "website": "https://www.concentrix.com/"
+    },
+    {
+      "id": 15,
+      "name": "Deloitte",
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/company-logs/Deloitte.png",
+      "website": "https://www2.deloitte.com/"
+    },
+    {
+      "id": 16,
+      "name": "KPMG",
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/company-logs/KPMG.png",
+      "website": "https://home.kpmg/"
+    },
+    {
+      "id": 17,
+      "name": "Mindtree",
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/company-logs/Mindtree.png",
+      "website": "https://www.mindtree.com/"
+    },
+    {
+      "id": 18,
+      "name": "NTT",
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/company-logs/NTT.png",
+      "website": "https://www.global.ntt/"
+    },
+    {
+      "id": 19,
+      "name": "Shell",
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/company-logs/Shell.png",
+      "website": "https://www.shell.com/"
+    },
+    {
+      "id": 20,
+      "name": "VMware",
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/company-logs/Vmware.png",
+      "website": "https://www.vmware.com/"
+    },
+    {
+      "id": 21,
+      "name": "Wells Fargo",
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/company-logs/WellsFargo.png",
+      "website": "https://www.wellsfargo.com/"
     }
   ]
 }
