@@ -2,47 +2,43 @@
   "AcademicPartners": [
     {
       "id": 1,
-      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/academic-partners/ait.png"
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/college-logs/ait.png"
     },
     {
       "id": 2,
-      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/academic-partners/ubdt.png"
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/college-logs/ubdt.png"
     },
     {
       "id": 3,
-      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/academic-partners/gmit.png"
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/college-logs/gmit.png"
     },
     {
       "id": 4,
-      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/academic-partners/pesitm.png"
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/college-logs/PES.png"
     },
     {
       "id": 5,
-      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/academic-partners/kvg.png"
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/college-logs/kvg.png"
     },
     {
       "id": 6,
-      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/academic-partners/eastwest.png"
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/college-logs/estwest.png"
     },
     {
       "id": 7,
-      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/academic-partners/sapthagiri.png"
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/college-logs/saptahagiri.png"
     },
     {
       "id": 8,
-      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/academic-partners/agmr.png"
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/college-logs/agmr.png"
     },
     {
       "id": 9,
-      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/academic-partners/presidency.png"
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/college-logs/jnnce.png"
     },
     {
       "id": 10,
-      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/academic-partners/jnnce.png"
-    },
-    {
-      "id": 11,
-      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/academic-partners/shreedevi.png"
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/college-logs/shreeDevi.png"
     }
   ]
 }
