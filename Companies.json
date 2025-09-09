@@ -1,0 +1,76 @@
+{
+  "Companies": [
+    {
+      "id": 1,
+      "name": "TCS",
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/company-logs/TataConsultancyServices.png",
+      "website": "https://www.tcs.com/"
+    },
+    {
+      "id": 2,
+      "name": "Infosys",
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/company-logs/Infosys.png",
+      "website": "https://www.infosys.com/"
+    },
+    {
+      "id": 3,
+      "name": "Wipro",
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/company-logs/Wipro.png",
+      "website": "https://www.wipro.com/"
+    },
+    {
+      "id": 4,
+      "name": "Accenture",
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/company-logs/Accenture.png",
+      "website": "https://www.accenture.com/"
+    },
+    {
+      "id": 5,
+      "name": "Capgemini",
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/company-logs/Capgemini.png",
+      "website": "https://www.capgemini.com/"
+    },
+    {
+      "id": 6,
+      "name": "Cognizant",
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/company-logs/Cognizant.png",
+      "website": "https://www.cognizant.com/"
+    },
+    {
+      "id": 7,
+      "name": "IBM",
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/company-logs/IBM.png",
+      "website": "https://www.ibm.com/"
+    },
+    {
+      "id": 8,
+      "name": "Tech Mahindra",
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/company-logs/TechMahindra.png",
+      "website": "https://www.techmahindra.com/"
+    },
+    {
+      "id": 9,
+      "name": "HCL Technologies",
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/company-logs/HCLTech.png",
+      "website": "https://www.hcltech.com/"
+    },
+    {
+      "id": 10,
+      "name": "Oracle",
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/company-logs/Oracle.png",
+      "website": "https://www.oracle.com/"
+    },
+    {
+      "id": 11,
+      "name": "Genpact",
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/company-logs/Genpact.png",
+      "website": "https://www.genpact.com/"
+    },
+    {
+      "id": 12,
+      "name": "Amazon",
+      "logo": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/main/company-logs/Amazon.png",
+      "website": "https://www.amazon.jobs/"
+    }
+  ]
+}
