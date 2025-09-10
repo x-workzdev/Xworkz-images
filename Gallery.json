@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "imgSrc": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/image1.jpg",
+      "title": "Training Session 2025",
+      "category": "events",
+      "description": "Our students participating in an intensive training session"
+    },
+    {
+      "id": 2,
+      "imgSrc": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/image2.jpg",
+      "title": "Workshop on Web Development",
+      "category": "workshops",
+      "description": "Hands-on workshop covering modern web technologies"
+    },
+    {
+      "id": 3,
+      "imgSrc": "https://raw.githubusercontent.com/xworkzodc/Gallery/master/images/image3.jpg",
+      "title": "Placement Drive",
+      "category": "placements",
+      "description": "Our students during campus placement activities"
+    }
+  ]
+}
