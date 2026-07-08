@@ -1,0 +1,89 @@
+{
+  "technologies": [
+    {
+      "id": 1,
+      "name": "Angular",
+      "icon": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/techlogo/angular.png"
+    },
+    {
+      "id": 2,
+      "name": "Generative AI",
+      "icon": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/techlogo/genai.png"
+    },
+    {
+      "id": 3,
+      "name": "Java",
+      "icon": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/techlogo/java.png"
+    },
+    {
+      "id": 4,
+      "name": "Spring Framework",
+      "icon": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/techlogo/spring.png"
+    },
+    {
+      "id": 5,
+      "name": "Spring AI",
+      "icon": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/techlogo/springai.png"
+    },
+    {
+      "id": 6,
+      "name": "Data JPA",
+      "icon": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/techlogo/datajpa.png"
+    },
+    {
+      "id": 7,
+      "name": "MySQL",
+      "icon": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/techlogo/mysql.png"
+    },
+    {
+      "id": 8,
+      "name": "Hibernate",
+      "icon": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/techlogo/hibernate.png"
+    },
+    {
+      "id": 9,
+      "name": "Python",
+      "icon": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/techlogo/python.png"
+    },
+    {
+      "id": 10,
+      "name": "Django",
+      "icon": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/techlogo/django.png"
+    },
+    {
+      "id": 11,
+      "name": "Flask",
+      "icon": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/techlogo/flask.png"
+    },
+    {
+      "id": 12,
+      "name": "JavaScript",
+      "icon": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/techlogo/javaScript.png"
+    },
+    {
+      "id": 13,
+      "name": "jQuery",
+      "icon": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/techlogo/jquery.png"
+    },
+    {
+      "id": 14,
+      "name": "HTML5",
+      "icon": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/techlogo/html.png"
+    },
+    {
+      "id": 15,
+      "name": "CSS3",
+      "icon": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/techlogo/css.png"
+    },
+    {
+      "id": 16,
+      "name": "Bootstrap",
+      "icon": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/techlogo/bootstrap.png"
+    },
+    {
+      "id": 17,
+      "name": "Git",
+      "icon": "https://raw.githubusercontent.com/x-workzdev/Xworkz-images/develop/techlogo/git.png"
+    }
+  ]
+}
